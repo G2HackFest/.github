@@ -34,7 +34,7 @@ Follow the event updates and announcements:
 
 🌐 Official Website: [Coming Soon]
 
-📌 GitHub Organization: [GitHub Link]
+📌 GitHub Organization: (https://github.com/G2HackFest/)
 
 💬 Join the Discussion: [Discord/Slack Link]
 
